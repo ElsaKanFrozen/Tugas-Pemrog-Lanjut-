@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator Delegate Event", "Calculator Delegate Event\Calculator Delegate Event.csproj", "{B6A1412F-7288-480F-8994-CEEF1E6B7CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A1412F-7288-480F-8994-CEEF1E6B7CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A1412F-7288-480F-8994-CEEF1E6B7CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A1412F-7288-480F-8994-CEEF1E6B7CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A1412F-7288-480F-8994-CEEF1E6B7CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45690DC3-78A2-4446-B48C-0147EA8E6F41}
+	EndGlobalSection
+EndGlobal

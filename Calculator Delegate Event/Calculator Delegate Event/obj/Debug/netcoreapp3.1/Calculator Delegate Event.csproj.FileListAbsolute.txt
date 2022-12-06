@@ -1,0 +1,17 @@
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.exe
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.deps.json
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.runtimeconfig.json
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.runtimeconfig.dev.json
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.dll
+D:\Calculator Delegate Event\Calculator Delegate Event\bin\Debug\netcoreapp3.1\Calculator Delegate Event.pdb
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.csproj.AssemblyReference.cache
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator_Delegate_Event.Form1.resources
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator_Delegate_Event.ProsesPerhitungan.resources
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.csproj.GenerateResource.cache
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.AssemblyInfoInputs.cache
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.AssemblyInfo.cs
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.csproj.CoreCompileInputs.cache
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.dll
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.pdb
+D:\Calculator Delegate Event\Calculator Delegate Event\obj\Debug\netcoreapp3.1\Calculator Delegate Event.genruntimeconfig.cache
